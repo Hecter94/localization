@@ -24,15 +24,14 @@ Hub_01,Hub [Ground]
 Medical_01,Clinic [B01]
 Medical_02,Clinic [B02]
 MineControl_01,Mine Control [Ground]
-MineControl_02,Mine Control's Residential [B01]
-MineControl_Surface_01,Mine Control Extrance [Ground]
-MineControl_BossRoom,Mine Extrance [Ground]
+MineControl_Surface_01,Mine Control Entrance [Ground]
+MineControl_BossRoom,Mine Entrance [Ground]
 Pub_01,Pub [B01]
 Pub_02,Pub Supply [B02]
 Residential_01,Residential [B01]
 Residential_02,Residential [B02]
 Residential_03,Residential [B03]
-Supply_01,Supply B01
+Supply_01,Supply [B01]
 WaterStation_01,Water Station [Ground]
 Cave_B1_A,Cave [B01 : Area A]
 Cave_B1_B,Cave [B01 : Area B]
@@ -50,13 +49,13 @@ B01_R_03,Mine A-3 Area [B01]
 B02_C_01,Old Leisure [B02]
 B02_C_02,Mine B Area [B02]
 B02_C_03,Old Garden [B02]
-B02_C_04,"Swimming Pool [B02]"
-B02_C_05,"Underground Pass [B02]"
+B02_C_04,Swimming Pool [B02]
+B02_C_05,Underground Pass [B02]
 B02_R_01,Mine B-1 Area [B02]
 B02_R_02,Mine B-2 Area [B02]
 B02_R_03,Mine B-3 Area [B02]
 B03_R_01,Underground Farm A [B03]
-B03_R_02,UndergroundFarm B [B03]
+B03_R_02,Underground Farm B [B03]
 B03_C_01,Workshop
 B03_C_02,Market
 B03_L_01,Mine C-1 Area [B03]
@@ -70,6 +69,6 @@ B04_R_02,Mine D-4 Area [B04]
 B04_R_03,Mine D-5 Area [B04]
 B05_R_01,Mine E-1 Area [B05]
 B05_R_02,Mine E-2 Area [B05]
-B05_C_01,Control Center Back Entrance
+B05_C_01,"Control Center, Back Entrance"
 B05_C_02,Control Center
 B05_C_03,Miner's Residence

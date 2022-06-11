@@ -13,7 +13,7 @@ M_Q_11_Mine_Tau,The Master of Mine Control
 M_Q_12_Mining_Equip,Mining equipment
 M_Q_13_Investingation_Desc,Investing To Subterrain
 M_Q_14_ControlCenter_Desc,Go To Control Center
-M_Q_15_ControlCenterCom_Desc,Find the clue of ControlCenter
+M_Q_15_ControlCenterCom_Desc,Find the clue of Control Center
 M_Q_01_Equipment_Desc,Take the clothes out of the box behind the curtain and put them on.
 M_Q_02_AlpOfPub_Desc,Talk to Alp Demir at the pub. The pub is down the left-most stairs in the Hub.
 M_Q_03_Resi_Lao_Desc,Talk to Gin Lao in the Residential Area. The RA is down the right center stairs in the Hub.
@@ -26,9 +26,9 @@ M_Q_09_Minerals_02_Desc,Get some white methane for Litzi. She said they are in t
 M_Q_10_Massage_Ida_Desc,Talk to Ida as soon as possible.
 M_Q_11_Mine_Tau_Desc,Talk to Tau Mogorosi. He is in Mine Control. MC is to the east of camp.
 M_Q_12_Mining_Equip_Desc,Talk to Judith. She is on the first floor of the Generator Facility.
-M_Q_13_Investingation_Desc,"You need to find traces of past exploration teams that have disappeared from underground areas. They may have left a trace of something."
-M_Q_14_ControlCenter_Desc,"There seems to be a control center on the B05 floor. Let's look into the place."
-M_Q_15_ControlCenterCom_Desc,"You finally reached the control center. You may find some clues here."
+M_Q_13_Investingation_Desc,You need to find traces of past exploration teams that have disappeared from underground areas. They may have left a trace of something.
+M_Q_14_ControlCenter_Desc,There seems to be a control center on the B05 floor. Let's look into the place.
+M_Q_15_ControlCenterCom_Desc,You finally reached the control center. You may find some clues here.
 Sub_Q_Lamp,Lamp
 Sub_Q_Battery,Battery
 Sub_Q_Oxygen,Oxygen Equipment
@@ -51,20 +51,20 @@ Sub_Q_AirCirculator,Air circulator
 Sub_Q_PowerRelay_Desc,Research Broken Fuse.
 Sub_Q_AirCirculator_Desc,Research Broken Filter
 Sub_Q_WormMeat,Add Worm Meat to the Menu
-Sub_Q_WormMeat_Desc,"Bring worm meat to Alp."
-Q_Log_Act01_Start,"From the Past"
-Q_Log_Act01_Start_Desc,"After a long sleep, I woke up from my hibernation device.\nThe place I woke up in is called "Huygen Camp"...\nProbably one of the many camps built in Titan...\nFirst of all, we need to understand the situation of this camp. And... all the first explorers who came to Titan with me disappeared. What the hell happened? "
-Q_Log_Act02_Start,"Huygen Camp"
+Sub_Q_WormMeat_Desc,Bring worm meat to Alp.
+Q_Log_Act01_Start,From the Past
+Q_Log_Act01_Start_Desc,"After a long sleep, I woke up from my hibernation device.\nThe place I woke up in is called 'Huygen Camp'...\nProbably one of the many camps built in Titan...\nFirst of all, we need to understand the situation of this camp. And... all the first explorers who came to Titan with me disappeared. What the hell happened?"
+Q_Log_Act02_Start,Huygen Camp
 Q_Log_Act02_Start_Desc,"The camp's resources are running out, and the tension between the camp's people is getting worse...\nOn top of all that, an unidentified monster appeared at the camp.\nIf this continues, everyone in the camp will die... Or kill each other.\nThe last thing left for me is to go to the polluted underground by myself.\nI may be able to find scarce resources, or find traces of past expeditions to help us escape the camp.\nThere is no choice..."
 Tutorial_Hunger_Thirst,Hunger & Thirst
 Tutorial_Hunger_Thirst_Desc,"As time goes by, you become hungrier and thirstier.\nSatiate your hunger and thirst with food and drinks.\nHigh hunger or thirst will significantly reduce combat efficiency and, in severe cases, you'll lose HP over time."
-Tutorial_Sleep,"Sleep"
+Tutorial_Sleep,Sleep
 Tutorial_Sleep_Desc,"As time goes by, you become sleepier.\nUse a bed or tent to get a good night's sleep and rejuvenate yourself.\nHigh sleepiness will significantly reduce combat efficiency and, in severe cases, you'll lose HP over time."
-Tutorial_Vision,"Vision"
+Tutorial_Vision,Vision
 Tutorial_Vision_Desc,"In the dark, your vision is reduced.\nBy equipping a lamp with batteries, you can increase your vision range while in the dark.\nAfter equipping the lamp and battery, the lamp can be turned on using the [ ; ] key.\nWhile the lamp is on, the battery loses charge with each turn that passes."
-Tutorial_Oxygen,"Oxygen"
+Tutorial_Oxygen,Oxygen
 Tutorial_Oxygen_Desc,"If an area has less than 70% oxygen, you will eventually lack oxygen.\nThe less oxygen the area has, the sooner the lack of oxygen occurs.\nAn oxygen canister must be equipped to avoid this.\nOxygen canisters allow you to compensate for the lack of oxygen in oxygen-poor areas.\nWhile in oxygen-poor areas, your equipped oxygen canister loses charge with each turn that passes."
-Tutorial_Production,"Camp Management"
-Tutorial_Production_Desc"Item production can be requested through the Production UI.\n\nThe types of tasks you can request are as follows:\n- Research: Unlock a new item to craft by researching items or blueprints.\n- Craft: Spend materials to create useful items and equipment.\n- Recycle: Destroy an item to get back some of its material cost.\n\nA production task uses materials from your personal storage (located in the Supply Depot), and the resulting items are deposited into the same personal storage.\n\nA production task also costs credits, and the efficiency of the camp members and facilities that perform the task affects the work time."
-Tutorial_CampManagement,"Camp Management"
+Tutorial_Production,Camp Management
+Tutorial_Production_Desc,"Item production can be requested through the Production UI.\n\nThe types of tasks you can request are as follows:\n- Research: Unlock a new item to craft by researching items or blueprints.\n- Craft: Spend materials to create useful items and equipment.\n- Recycle: Destroy an item to get back some of its material cost.\n\nA production task uses materials from your personal storage (located in the Supply Depot), and the resulting items are deposited into the same personal storage.\n\nA production task also costs credits, and the efficiency of the camp members and facilities that perform the task affects the work time."
+Tutorial_CampManagement,Camp Management
 Tutorial_CampManagement_Desc,"In the Camp Management UI, you can control the production and consumption of resources in the camp.\n\nResources are consumed every turn, and insufficient resources affects the health of camp members, the efficiency of the facility, and the supply of electricity to the underground.\n\nSearch and scavenge in the caves or underground areas for items that you can use or recycle."

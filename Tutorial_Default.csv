@@ -2,9 +2,9 @@ Language,Default
 Tutorial_00_Move,Move
 Tutorial_00_Time,Date & Time
 Tutorial_01_Item_Equipment,Equipment Item
-Tutorial_02_OmniScope,OmniScope
+Tutorial_02_OmniScope,Omniscope
 Tutorial_03_Item_Food,Food & Water
-Tutorial_04_Bed_Sleep,Sleepness
+Tutorial_04_Bed_Sleep,Sleepiness
 Tutorial_05_Combat,Combat
 Tutorial_06_Perk,Perk
 Tutorial_06_Stat,Stat
@@ -15,21 +15,25 @@ Tutorial_10_ResourceManagement,Resource Management
 Tutorial_00_Move_Desc,"You can move in 8 directions based on the your tile.\n\nMethod Of Move : Use either of the following two methods\n\nMethod(1) : Specify the tiles to be moved.\nMethod(2) : Press to [WASD], [QEZC] Key."
 Tutorial_00_Time_Desc,"You can check the date and time using the information displayed on the upper right.\n\n-Mark : T.Year.Day\n-Unit : 1 Day = 400 Turn, 1 Year = 16 Days"
 Tutorial_01_Item_Equipment_Desc,"Items such as weapons, protective equipment, lamps, batteries, oxygen canisters, etc. can be installed.\n\n-Weapon, Armor : Stat Increase\n-Lamp : illumination of vision in the dark\n-Battery : Energy required for the use of special Equipment and Lamp.\n-Oxygen Canister : Oxygen is supplied from oxygen-deprived areas."
-Tutorial_02_OmniScope_Desc,Omniscope is a state-of-the-art equipment built into the body of the probe.\nVarious information can be processed and related information can be checked through the retina lens.\n\nOmniscope Key\n-Lower left OmniScope or [TAB] Key\n\nOmniscope function shortcut\n-Setting [ESC]\n-Map [M]\n-Perk [K]\n-Inventory [I]\n-Stat [P]\n-Journal [J]
+Tutorial_02_OmniScope_Desc,Omniscope is a state-of-the-art equipment built into the body of the probe.\nVarious information can be processed and related information can be checked through the retina lens.\n\nOmniscope Key\n-Lower left Omniscope or [TAB] Key\n\nOmniscope function shortcut\n-Setting [ESC]\n-Map [M]\n-Perk [K]\n-Inventory [I]\n-Stat [P]\n-Journal [J]
 Tutorial_03_Item_Food_Desc,"If your desire for food and water is not satisfied, your stats may decrease or die.\nYou can recover by using food or water items.\n\nInformation\n-Needs of food : Lower left first gauge\n-Needs of water : Lower left second gauge"
 Tutorial_04_Bed_Sleep_Desc,The UI on the lower left allows you to check the player's sleep needs. You can recover your desire for sleep by using a bed.\n\nInformation\n-Needs of sleep : Lower left third gauge.
 Tutorial_05_Combat_Desc,Combat
 Tutorial_06_Perk_Desc,Perk
 Tutorial_06_Stat_Desc,Stat
-Tutorial_07_Lamp_Desc,"-The lamp illuminates the view in the dark.\n-In order to use the lamp, the battery must be installed, and the amount of batteries installed with the lamp turned on decreases.\n\n-Function Shorcut\n-Use Lamp: [;]"
-Tutorial_08_Oxygen_Desc,-Oxygen canisters help you survive in oxygen-poor areas.\n-Mounted oxygen canisters reduce the amount of matons in oxygen-deprived areas.\n*(Oxygen-deprived area: 70% or less oxygen)
-Tutorial_09_Production_Desc,"-You can request work by placing items to be researched, recycled, or used as materials in a personal storage in a Supply.\n-At this time, credit for the work is required.\n\nInformation\n-Item Prodution : [N]"
-Tutorial_10_ResourceManagement_Desc,"-Resource management functions allow you to control the amount of resources produced or consumed.\n-The types of resources include electricity, water, and ration.\n-Lack of resources reduces the efficiency of camp facilities and camp's members, which can lead to a halt in camps and loss of games.\n\nResource-producing material\n-Electricity : Mathane Fuel(obtained by decomposing methane minerals)\n-Water : Phytochemical(Obtained by disassembling plant items)\n-Ration : Organic fertilizer(Obtained by disassembling monster spoils.)"
+Tutorial_07_Lamp_Desc,"-The lamp illuminates the view in the dark.\n-In order to use the lamp, the battery must be installed, and the amount of batteries installed with the lamp turned on decreases.\n\n-Function Shortcut\n-Use Lamp: [;]"
+Tutorial_08_Oxygen_Desc,-Oxygen canisters help you survive in oxygen-poor areas.\n-Mounted oxygen canisters reduce the amount of asphyxiation gained in oxygen-deprived areas.\n*(Oxygen-deprived area: 70% or less oxygen)
+Tutorial_09_Production_Desc,"-You can request work by placing items to be researched, recycled, or used as materials in a personal storage in a Supply.\n-At this time, credit for the work is required.\n\nInformation\n-Item Production : [N]"
+Tutorial_10_ResourceManagement_Desc,"-Resource management functions allow you to control the amount of resources produced or consumed.\n-The types of resources include electricity, water, and ration.\n-Lack of resources reduces the efficiency of camp facilities and camp's members, which can lead to a halt in camps and loss of games.\n\nResource-producing material\n-Electricity : Methane Fuel(obtained by decomposing methane minerals)\n-Water : Phytochemical(Obtained by disassembling plant items)\n-Ration : Organic fertilizer(Obtained by disassembling monster spoils.)"
+Tutorial_Omniscope_01_02,<color=TUTORIAL>The functions of the currently active omniscope are as follows. <color=IMPORTANT0>[ Option Key ]</color> / Inventory : <color=IMPORTANT0>[ I ]</color> / Stat : <color=IMPORTANT0>[ P ]</color> / Perk : <color=IMPORTANT0>[ K ]</color> / Journal : <color=IMPORTANT0>[ J ]</color> / Map : <color=IMPORTANT0>[ M ]</color></color>
+Tutorial_Omniscope_01_03,<color=TUTORIAL>Other detailed shortcuts can be found and changed under 'Omniscope > Settings > Control Settings'.</color>
+Tutorial_Omniscope_02,<color=TUTORIAL>The bottom slot can be used by registering items or your personal Perk.</color>
+Tutorial_Omniscope_03,"<color=TUTORIAL>Current date and time, temperature and oxygen levels of the zone can be found at the top right section of the Hud.</color>"
 Tutorial_Move,<color=TUTORIAL>Click on the ground or press <color=IMPORTANT0>QEZC</color> and <color=IMPORTANT0>WASD</color> keys to move.</color>
 Tutorial_Mn001_Equipment,"<color=TUTORIAL>Our current objective indicates that in order to acquire the equipment, we should click on the box behind the medical curtain.</color>"
 Tutorial_Mn005_Roomkey,<color=TUTORIAL>Keycard added to inventory. Click the locked door to open it.</color>
 Tutorial_Mn008_Rat,<color=TUTORIAL>Kill {Rat_KillCount}  Rats in the warehouse.</color>
-Tutorial_Mn009_Mushroom,<color=TUTORIAL>Collect {Plant_MushroomCount}  mushroosms from the cave.</color>
+Tutorial_Mn009_Mushroom,<color=TUTORIAL>Collect {Plant_MushroomCount}  mushrooms from the cave.</color>
 Tutorial_Mn011_Minerals,<color=TUTORIAL>Bring {Minerals_BlackCount}  black minerals from the cave.</color>
 Tutorial_Mn012_Minerals,<color=TUTORIAL>Bring {Minerals_WhiteCount}  white minerals from the cave.</color>
 Tutorial_Mn017_Boss,<color=TUTORIAL>Fight the monster.</color>
@@ -40,11 +44,11 @@ Tutorial_Oxygen_AI_001,<color=TUTORIAL>WARNING. This is an oxygen-poor area.</co
 Tutorial_Oxygen_AI_002,<color=TUTORIAL>You can check the levels of oxygen right at the top of the current zone.</color>
 Tutorial_Oxygen_AI_003,"<color=TUTORIAL>In areas where oxygen is less than 70%, the player's oxygen decreases. Certain negative conditions can occur due to lack of oxygen.</color>"
 Tutorial_Oxygen_AI_004,<color=TUTORIAL>You can mount oxygen items in the inventory. Oxygen items slow down the player's oxygen loss.</color>
-Tutorial_Oxygen_AI_005,<color=TUTORIAL>Oxygen items can be purchased through Omniscope's Craft UI to 'Tagart Judith' or through direct transactions.</color>
+Tutorial_Oxygen_AI_005,<color=TUTORIAL>Oxygen items can be purchased through Omniscope's Craft UI to 'Taggart Judith' or through direct transactions.</color>
 Tutorial002_01_Nar,"(It's very dark inside the cave, so you can barely see the things that are close by.)"
 Tutorial002_02_P,It's too dark around here...
 Tutorial002_03_Nar,(AI Cassini appears on your lens.)
-Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are most likely to have lamps and batteries in the Huygen Camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi vogl"
+Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are most likely to have lamps and batteries in the Huygen Camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi Vogl"
 Tutorial002_05_P,"If I find these two, I can get a lamp and a battery, right?"
 Tutorial002_06_P,Can I get a lamp by any chance?
 Tutorial002_07_Judith,"I do have one, it's not new but I can give it to you for free. Since it's not a very relaxed situation here If you need any more In the future you'll have to bring me the ingredients and credits if necessary and then I can make you one."
@@ -73,6 +77,19 @@ Tutorial003_08_P,Production? What else can you produce?
 Tutorial003_09_Wolf,"Haven't you produced anything yet? Then first, go to David at the supply station and get the production access."
 Tutorial003_10_Wolf,"And if you have enough credit, I can sell things I have."
 Tutorial003_11_AI,The trading function of the running wolf ear has been activated.
+Tutorial004_01_P,I was told to go to you for production rights.
+Tutorial004_02_David,"Oh, come to think of it, the camp needed access to request production. I've never given the others new access, so I forgot, but I was in authority of them. Haha... what's your Omniscope ID?"
+Tutorial004_03_P,uh...It's 24601.
+Tutorial004_04_David,wait... I will update the authority first and let you know how to use it.
+Tutorial004_05_Nar,(Information about the production of the item is sent to Omniscope.)
+Tutorial004_06_AI,"<color=TUTORIAL>Information on [Research, craft, Recycling] of the Huygen Camp has been updated. </color>"
+Tutorial004_07_AI,"<color=TUTORIAL>You can put things in a personal storage in a supply facility and request to research, manufacture, and decompose items. </color>"
+Tutorial004_08_AI,"<color=TUTORIAL>For more information, see [Journal - Cassini - Production.]</color>"
+Tutorial004_09_David,New information would have been updated. I'll explain it to you.
+Tutorial004_10_David,"Based on the items you put in the storage, [research, craft, recycling] items will be displayed. What kind of warehouse is it? It's like a big box on the right when you come into the supply station, but if you're not sure, there's information in the journal, so check it out."
+Tutorial004_11_David,"There are separate workers depending on the type of product, and if you pay a reasonable price, they will proceed."
+Tutorial004_12_David,"Oh, and most items can be recycled, so it would be okay to take the junk apart while walking around the camp."
+Tutorial004_13_David,"Well, good luck! I sincerely hope you are doing well in this camp."
 
 UITutorial_001_01,This is just a test text to see if everything is working alright.
 UITutorial_001_02,This is another just a test text to see if everything is working alright.
@@ -109,7 +126,7 @@ Map_UI_01_Sector,"<color=#47C6CF>[Sector]</color>\nDisplays information about a 
 Map_UI_02_Level,<color=#47C6CF>[Area]</color>\nDisplays information\nabout the areas in sector.
 Map_UI_03_Tile,<color=#47C6CF>[Area Information]</color>\nDisplays a detailed map of the selected area.
 
-Perk_UI_Proficiency,"<color=#47C6CF>[Perk Proficiecny]</color>\nEach Perk belongs to a specific Proficiency.\nPracticing a Proficiency will help you improve it, allowing you to increase related stats or unlock new Perks."
+Perk_UI_Proficiency,"<color=#47C6CF>[Perk Proficiency]</color>\nEach Perk belongs to a specific Proficiency.\nPracticing a Proficiency will help you improve it, allowing you to increase related stats or unlock new Perks."
 Perk_UI_List,<color=#47C6CF>[Perk List]</color>\nDisplays the available\nPerks of the selected Proficiency.
 Perk_UI_Point,<color=#47C6CF>[Perk Point]</color>\nDisplays how many Perk Points you currently have.\nPerk Points can be spent on unlocking or improving Perks.
 Perk_UI_Desc,<color=#47C6CF>[Perk Information]</color>\nDisplays detailed information about the selected Perk.
@@ -126,7 +143,7 @@ Hud_UI_Tutorial_Start_01,"Hello, I'm Cassini, the AI that controls Omniscope 246
 Hud_UI_Tutorial_End_01,"If you are confused about something, look for the <sprite name=Help_Mark> button nearby for more information.\nThis concludes your tour of your Omniscope."
 
 Event_UI_NanoGauge,<color=#47C6CF>[Nano Activation]</color>\nYour body's nanobots have been activated.\nYou can see your nanobot gauge below.\nNanobot gauge is consumed when a nanobot-related Perk is used.
-Event_UI_Task_01,<color=#47C6CF>[Item Production Function Activation]</color>\nItem production authority has been granted to this device.\nYou can pay credits and materials to commission a camp member to produce an item.\n(Shorcut : N)
+Event_UI_Task_01,<color=#47C6CF>[Item Production Function Activation]</color>\nItem production authority has been granted to this device.\nYou can pay credits and materials to commission a camp member to produce an item.\n(Shortcut : N)
 Event_UI_Task_02,"<color=#47C6CF>[Item Production Function Activation]</color>\nYou can request research, Craft, and Recycling through the Work UI.\nPay materials and credits and ask for work from the appropriate character in the camp."
 Event_UI_Task_03,<color=#47C6CF>[Item Production Function Activation]</color>\nRequired material for crafting an item is drawn from the personal storage in the supply depot.\nWhen the work on an item is done it's put into personal storage.
 Event_UI_CampManagement,<color=#47C6CF>[Activation Camp Management]</color>\nCamp management authority has been granted to this device.\nYou can allocate resources to each building in the Camp UI.

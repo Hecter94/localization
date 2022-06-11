@@ -1,12 +1,15 @@
 Language,Default
-Language,Default
 Fist_NameKey,Fist
 HeadAccessory_001_NameKey,horn spectacles
 HeadAccessory_001_DescKey,It's a pair of horn-shaped glasses.
 HeadAccessory_002_NameKey,Goggles
 HeadAccessory_002_DescKey,Goggles that can protect the eyes. Other gear will be needed for the rest of the head.
 HeadAccessory_004_NameKey,Isko's Glasses
-HeadAccessory_004_Desc,These are Isco's glasses. The prescription of glasses is very low.
+HeadAccessory_004_Desc,These are Isko's glasses. The prescription of glasses is very low.
+HeadGear_001_NameKey,Future Helmet: Yellow
+HeadGear_001_DescKey,"It is a helmet for future use, and it is yellow."
+HeadGear_002_NameKey,Future Helmet: Black
+HeadGear_002_DescKey,"It is a helmet for future use, and it is black."
 Body_002_NameKey,Camp Sportswear
 Body_002_DescKey,Convenient sportswear made by TECC. It's a staple outfit for the people in the camp.
 Hand_012_NameKey,Protective Gloves: Gray
@@ -51,6 +54,8 @@ Arrow_001_NameKey,Arrow
 Arrow_001_DescKey,"Plain and simple arrows. They probably won't survive more than one shot, though. "
 Mushroom_NameKey,Cave Mushroom
 Mushroom_DescKey,It's a mushroom that grows in caves. It might be dangerous to consume when raw. 
+Mineral_001_NameKey,Black methane mineral
+Mineral_001_DescKey,"A slab of black methane, the most common form of methane on Titan. "
 Mineral_002_NameKey,White methane mineral
 Mineral_002_DescKey,"White methane requires a higher temperature and pressure than black methane, so it's less common. "
 Shabby_Key_NameKey,Shabby key card
@@ -100,7 +105,7 @@ Blood_Extract_NameKey,Blood Extract
 Blood_Extract_DescKey,A material that's been extracted from a creature's blood. It could be useful for producing something. 
 Osseous_Extract_NameKey,Osseous Extract
 Osseous_Extract_DescKey,A material that's been extracted from a creature's bones. It could be useful for producing something. 
-Tissue_Extract_NameKey,Tissue Extrrac
+Tissue_Extract_NameKey,Tissue Extract
 Tissue_Extract_DescKey,A material that's been extracted from a creature's tissue. It could be useful for producing something. 
 Shell_Extract_NameKey,Shell Extract
 Shell_Extract_DescKey,A material that's been extracted from a creature's exoskeleton. It could be useful for producing something. 
@@ -116,7 +121,7 @@ Tent_001_NameKey,A-frame Tent
 Tent_001_DescKey,"A tent that can offer sleep almost anywhere. It can't beat a decent bed, though. "
 Power_Fuse_NameKey,Power Relay Fuse
 Power_Fuse_DescKey,A fuse that allows power relays to transmit electricity.
-Air_Filter_NameKey,Air Firter
+Air_Filter_NameKey,Air Filter
 Air_Filter_DescKey,A filter that makes the air circulators inhibit the spread of nanopollution.
 Broken_Fuse_NameKey,Broken Fuse
 Broken_Fuse_DescKey,A broken power relay fuse. 
@@ -148,6 +153,7 @@ Junk_Wood_Dummy,Planks
 Junk_Wood_Dummy_Desc,Torn and bent planks of wood that would probably give splinters before support.
 Junk_1X1_F_001,Ragged Doll
 Junk_1X1_F_002,Torn Doll
+Junk_1X1_F_003,Lemilore Doll
 Junk_1X1_F_004,Towel
 Junk_1X1_F_005,Bedsheet
 Junk_1X1_M_001,Rusty Thing
@@ -224,6 +230,7 @@ Junk_2x3_F_001,Fire Extinguisher
 Junk_2x3_M_001,Bathrobe 
 Junk_1X1_F_001_Desc,A poor plushie that's probably seen more than it wanted to.
 Junk_1X1_F_002_Desc,An old toy that looks like it got a lot of use when it was new.
+Junk_1X1_F_003_Desc,
 Junk_1X1_F_004_Desc,"A dirty, torn towel. It's probably not a good idea to try cleaning with it."
 Junk_1X1_F_005_Desc,"An old bedsheet. It's not very damaged, but no idea how sanitary it is."
 Junk_1X1_M_001_Desc,Some sort of rusty object. It's somewhat hard to tell what it even was originally.
@@ -248,6 +255,7 @@ Junk_1X1_P_005_Desc,"It looks like one of those plastic bottles that you squeeze
 Junk_1X1_P_006_Desc,A strangely destroyed cup. It almost looks like it was shredded by claws.
 Junk_1X1_P_007_Desc,"Dusty combs and other hair products. They look pretty usable, but now doesn't seem like the time."
 Junk_1X1_P_008_Desc,"A degraded circular container of some sort. Probably a tube? Well, it's hardly usable now, anyway."
+Junk_1X1_P_009_Desc,
 Junk_1x2_M_001_Desc,"A chipped old blade. It kind of looks like it'd still hurt, but it's probably best not to test that."
 Junk_1x2_M_002_Desc,"A pointless kitchen knife, except for the blade that's going to end up as scrap metal."
 Junk_1x2_M_003_Desc,A fractured kitchen cleaver that looks ready to fall apart at the slightest hint of force.
@@ -340,7 +348,7 @@ Advanced_Shield,Incredibly Sturdy Shield of Legendary Survivability
 MakeShift_Sword_Desc,"It may be rusty, but you still wouldn't want to be on the other end of it, especially if you're not wearing armor."
 Standard_Sword_Desc,"An old-fashioned sword, now with 95% less rust and 40% more flesh-slicing."
 Improved_Sword_Desc,"A new-looking sword with an actual hilt, which will help since this thing actually looks sharp."
-Prototype_Sword_Desc,"Judith tried improving the sword with some energy or something, but it looks like She'S still experimenting."
+Prototype_Sword_Desc,"Judith tried improving the sword with some energy or something, but it looks like She's still experimenting."
 Advanced_Sword_Desc,"No idea how Judith made this, but it almost looks like even most armor couldn't stop this thing."
 MakeShift_Club_Desc,The camp must be really deprived to consider this a weapon.
 Standard_Club_Desc,No duct tape on this one. Maybe it can actually break through some armor.
@@ -377,18 +385,18 @@ Standard_Shield_Desc,A refurbished sheet of metal that should block most hits pr
 Improved_Shield_Desc,"A sturdier shield that resembles a riot shield, and is probably just as tough to get through."
 Prototype_Shield_Desc,A shield with some experimental... things... on it that make the shield... probably better?
 Advanced_Shield_Desc,"No idea what was done to this shield, but it seems tougher than some of the walls around here."
-Sword_MakeShift_BluePrint,BluePrint : Rusty Sword
-Club_MakeShift_BluePrint,BluePrint : Duct-Taped Club
-Axe_MakeShift_BluePrint,BluePrint : Stick with Sharp Rock
-Hammer_MakeShift_BluePrint,BluePrint : Stick with Blunt Rock
-Shield_MakeShift_BluePrint,BluePrint : Flimsy Shield
-Bow_MakeShift_BluePrint,BluePrint : Loose Bow
-Pistol_MakeShift_BluePrint,BluePrint : Handmade Pistol
-Rifle_MakeShift_BluePrint,BluePrint : Handmade Rifle
-Head_MakeShift_BluePrint,BluePrint : Battered Helmet
-Body_MakeShift_BluePrint,BluePrint : Old Body Armor
-Hand_MakeShift_BluePrint,BluePrint : Used Gloves
-Foot_MakeShift_BluePrint,BluePrint : Combat Boots
+Sword_MakeShift_BluePrint,Blueprint : Rusty Sword
+Club_MakeShift_BluePrint,Blueprint : Duct-Taped Club
+Axe_MakeShift_BluePrint,Blueprint : Stick with Sharp Rock
+Hammer_MakeShift_BluePrint,Blueprint : Stick with Blunt Rock
+Shield_MakeShift_BluePrint,Blueprint : Flimsy Shield
+Bow_MakeShift_BluePrint,Blueprint : Loose Bow
+Pistol_MakeShift_BluePrint,Blueprint : Handmade Pistol
+Rifle_MakeShift_BluePrint,Blueprint : Handmade Rifle
+Head_MakeShift_BluePrint,Blueprint : Battered Helmet
+Body_MakeShift_BluePrint,Blueprint : Old Body Armor
+Hand_MakeShift_BluePrint,Blueprint : Used Gloves
+Foot_MakeShift_BluePrint,Blueprint : Combat Boots
 Sword_MakeShift_BluePrint_Desc,"If this blueprint is researched, then Rusty Swords can be produced."
 Club_MakeShift_BluePrint_Desc,"If this blueprint is researched, then Duct-Taped Clubs can be produced."
 Axe_MakeShift_BluePrint_Desc,"If this blueprint is researched, then Sticks with Sharp Rocks can be produced. Can't believe they need a blueprint of this..."
@@ -510,13 +518,13 @@ Pumpkin,Pumpkin
 Sweet_Potato,Sweet Potatoes
 Tomato,Tomato
 Rope_Desc,A length of sturdy rope that should help create new paths to new areas.
-Carrot_Desc,"A carrot that the farmer, Seo Yeon, grows and sells."
-Chill_Desc,"Some chilis that the farmer, Seo Yeon, grows and sells."
-Daikon_Desc,"A daikon (radish) that the farmer, Seo Yeon, grows and sells."
-Potato_Desc,"Some potatoes that the farmer, Seo Yeon, grows and sells."
-Pumpkin_Desc,"A pumpkin that the farmer, Seo Yeon, grows and sells."
-Sweet_Potato_Desc,"Some sweet potatoes that the farmer, Seo Yeon, grows and sells."
-Tomato_Desc,"A tomato that the farmer, Seo Yeon, grows and sells."
+Carrot_Desc,"A carrot that the farmer, Seoyeon, grows and sells."
+Chill_Desc,"Some chilis that the farmer, Seoyeon, grows and sells."
+Daikon_Desc,"A daikon (radish) that the farmer, Seoyeon, grows and sells."
+Potato_Desc,"Some potatoes that the farmer, Seoyeon, grows and sells."
+Pumpkin_Desc,"A pumpkin that the farmer, Seoyeon, grows and sells."
+Sweet_Potato_Desc,"Some sweet potatoes that the farmer, Seoyeon, grows and sells."
+Tomato_Desc,"A tomato that the farmer, Seoyeon, grows and sells."
 Judith_Note,Judith's Note
 Judith_Note_Desc,"This must be the notes that Judith is looking for. She wrote it in such a rush that it's illegible, and the bits that are legible are confusing."
 Junk_2x1_W_Icon_001,Composite Wood
@@ -552,7 +560,7 @@ Junk_1x1_MA_Icon_023,Portable Vacuum
 Junk_1x1_MA_Icon_024,Hair Dryer
 Junk_1x1_MA_Icon_025,Robot Vacuum
 Junk_1x1_MA_Icon_026,Downed Drone
-Junk_2x1_W_Icon_001_Desc,"Planks that are composited from several different plantlife. Titan isn't much of a forest, so it seems that the people here tried to make these planks out of whatever flora they could find."
+Junk_2x1_W_Icon_001_Desc,"Planks that are composited from several different plant life. Titan isn't much of a forest, so it seems that the people here tried to make these planks out of whatever flora they could find."
 Junk_1x2_MA_Icon_001_Desc,"A small piece of machinery. Its shape suggests that it's a part of a much larger whole, and the wiring seems excessive for a basic appliance. Could this be part of an automaton?"
 Junk_1x1_E_Icon_001_Desc,"An old radio. It's rusty, falling apart, and most of the wiring is exposed or severed."
 Junk_1x1_E_Icon_002_Desc,"Some sort of handheld device, possibly a dedicated calculator. Regardless, it's been trampled on and can't do anything anymore."
